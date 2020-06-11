@@ -1,2 +1,2 @@
 # edgetool
-个人经验总结
+Springboot + vue + layUI 基础应用框架。
